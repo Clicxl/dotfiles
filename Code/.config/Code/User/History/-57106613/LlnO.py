@@ -1,0 +1,27 @@
+import pyautogui
+from datetime import date
+
+
+class Utils:
+    def __init__(self) -> None:
+        self.WIDTH, self.HEIGHT = pyautogui.size()
+
+    def mousePos(self):
+        print(pyautogui.position())
+
+    def shotMatch(self,file: str,grayscale:bool=False,click:bool=False):
+        try:
+            if pyautogui.locateOnScreen(file,grayscale=grayscale):
+                print(f"{file} Located")
+                if click:
+                    pyautogui.click(pyautogui.locateCenterOnScreen(file,grayscale=grayscale)) # type: ignore
+                    return True
+                else:
+                    return True, pyautogui.locateCenterOnScreen(file, grayscale=grayscale) # type: ignore
+
+        except Exception as e:
+            pyautogui.prompt(f"{file} Not Located, {e}")
+            return False
+
+    def comapreDate(self,prevDate: date):
+        return (date.today() - prevDate).days

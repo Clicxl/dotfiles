@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    }
+
+body {
+    background-image: url(assets/background.jpg);
+}
+
+.beatbox {
+    display: flex;
+    flex-direction: row;
+}
+
+.key {
+    background-color: rgba(60, 60, 60, 0.498);
+}

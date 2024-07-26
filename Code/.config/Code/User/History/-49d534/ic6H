@@ -1,0 +1,4 @@
+function updateSys(){
+
+}
+alias update=updateSys

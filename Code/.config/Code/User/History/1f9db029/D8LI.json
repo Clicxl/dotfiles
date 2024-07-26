@@ -1,0 +1,62 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "meta+space",
+    "command": "focusSuggestion",
+    "when": "suggestWidgetVisible && textInputFocus && !suggestWidgetHasFocusedSuggestion"
+  },
+  {
+    "key": "ctrl+space",
+    "command": "-focusSuggestion",
+    "when": "suggestWidgetVisible && textInputFocus && !suggestWidgetHasFocusedSuggestion"
+  },
+  {
+    "key": "ctrl",
+    "command": "workbench.action.toggleMultiCursorModifier"
+  },
+
+  // NAVIGATION
+  {
+    "key": "shift-a",
+    "command": "workbench.action.terminal.focusNext",
+    "when": "terminalFocus"
+  },
+
+  {
+    "key": "shift-b",
+    "command": "workbench.action.terminal.focusPrevious",
+    "when": "terminalFocus"
+  },
+
+  {
+    "key": "shift-j",
+    "command": "workbench.action.togglePanel"
+  },
+
+  {
+    "key": "shift-n",
+    "command": "workbench.action.terminal.new",
+    "when": "terminalFocus"
+  },
+
+  // FILETREE
+  {
+    "key": "ctrl-n",
+    "command": "explorer.newfile",
+    "when": "explorerviewletfocus"
+  },
+
+  {
+    "key": "ctrl-shift-n",
+    "command": "explorer.newFolder",
+    "when": "explorerViewletFocus"
+  },
+
+  {
+    "key": "ctrl-shift-n",
+    "command": "workbench.action.newWindow",
+    "when": "!explorerviewletfocus"
+  },
+
+
+]

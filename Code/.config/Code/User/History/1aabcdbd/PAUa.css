@@ -1,0 +1,27 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+:root {
+    --base : #ffc600;
+    --spacing: 10px;
+    --blur: 10px;
+
+}
+
+body {
+    text-align: center;
+    background: #193549;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+}
+
+img {
+    padding: var(--spacing);
+    filter: blur(var(--blur));
+    background: var(--base);
+}

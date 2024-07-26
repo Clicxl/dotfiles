@@ -1,0 +1,6 @@
+function updateSys(){
+    sudo nala update;
+    sudo nala list --upgradeable
+    sudo nala upgrade -y;
+}
+alias update=updateSys

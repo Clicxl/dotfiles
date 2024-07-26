@@ -1,0 +1,39 @@
+* {
+    transition: all 1s ease-in-out ;
+    --bg-color-light: rgb(251, 248, 252);
+    --primary-color-light: rgb(89, 28, 109);
+    --secondary-color-light: rgb(208, 119, 238);
+
+    --bg-color-dark: rgb(7, 3, 8);
+    --primary-color-dark: rgb(205, 146, 227);
+    --secondary-color-dark: rgb(106, 17, 136);
+
+
+}
+
+body {
+    background-color: var(--bg-color-light);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#mode {
+    width: 100px;
+    height: 50px;
+    border-radius: 2px;
+    margin-top: 110px;
+}
+
+.dark {
+    background-color: var(--primary-color-dark);
+    color: var(--secondary-color-dark);
+    border: 2px solid var(--secondary-color-dark);
+}
+
+.light {
+    background-color: var(--primary-color-light);
+    color: var(--secondary-color-light);
+    border: 2px solid var(--secondary-color-light);
+}

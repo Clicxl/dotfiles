@@ -1,0 +1,48 @@
+{
+ "owner": {
+  "username": "Owner",
+  "email": "exampleemail@gmail.com",
+  "password": "$2b$10$DU4BIgjlbc8fMc1GJmlBoehTZbJ7un.8QvIwBmxh01ETVeWkU3YVW",
+  "refreshTokens": [],
+  "joined": "2024-07-17T08:36:23.663Z",
+  "logins": 0,
+  "seen": "2024-07-17T08:36:23.663Z",
+  "elo": 1200
+ },
+ "patron": {
+  "username": "Patron",
+  "email": "exampleemail@gmail.com",
+  "password": "$2b$10$k.oA9g1HNBCwipP9gIXji.EtjtYRhAySr.0IR.W9H1XI37LFoALta",
+  "refreshTokens": [],
+  "joined": "2024-07-17T08:36:23.671Z",
+  "logins": 0,
+  "seen": "2024-07-17T08:36:23.671Z",
+  "elo": 1200
+ },
+ "member": {
+  "username": "Member",
+  "email": "exampleemail@gmail.com",
+  "password": "$2b$10$AKiuJpcFszHQB9z4CtxYfemvzetWOJCbnN3864jc3DQO9F/XXPHZi",
+  "refreshTokens": [],
+  "joined": "2024-07-17T08:36:23.673Z",
+  "logins": 0,
+  "seen": "2024-07-17T08:36:23.673Z",
+  "elo": 1200
+ },
+ "sadsadasd": {
+  "username": "sadsadasd",
+  "email": "adssadsadas@adsad.com",
+  "password": "$2b$10$Vhnuljf4yJVlXdJ5ubEyWeE3SVS7FUEGSwh1phzU9oAg6Z.jCF6Ui",
+  "refreshTokens": [
+   "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNhZHNhZGFzZCIsImlhdCI6MTcyMTIwNjExNSwiZXhwIjoxNzIxNjM4MTE1fQ.8y0P-pP-AFaxvPaisqubyaNNP889f2--TvAM2jKdp0Q"
+  ],
+  "joined": "2024-07-17T08:48:35.521Z",
+  "logins": 1,
+  "seen": "2024-07-17T08:48:35.929Z",
+  "elo": 1200,
+  "verified": [
+   false,
+   "jy3o46962s7u5hxiqgmef3bf"
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+function updateSys() {
+    sudo nala update
+    sudo nala list --upgradeable
+    sudo nala upgrade -y
+    flatpak update -y
+}
+
+function switchWindows() {
+    
+}
+
+alias update=updateSys

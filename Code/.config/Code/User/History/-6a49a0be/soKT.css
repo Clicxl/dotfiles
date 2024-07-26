@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    background-color: #0B010A;
+    color: #FEE4FC;
+}
+
+.navbar {
+    display: flex;
+    font-weight: bolder;
+    height: 150px;
+    width: 100%;
+}
+
+#navbar-text {
+    align-self: center;
+    justify-self: center;
+}

@@ -1,0 +1,22 @@
+2024-07-25 13:46:14.475 [info] Started local extension host with pid 59099.
+2024-07-25 13:46:17.402 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-07-25 13:46:22.459 [info] [perf] Render performance baseline is 42ms
+2024-07-25 13:46:23.137 [error] CodeExpectedError: ENOPRO: No file system provider found for resource 'userdataprofileexportpreview:/home/hrishikesh/.config/Code/User/profiles/7a95bb05/globalStorage/globalState.json'
+    at r.j (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:662:13811)
+    at async r.m (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:662:13903)
+    at async r.readFileStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:662:18632)
+    at async b.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2223:35352)
+    at async b.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2223:35109)
+    at async P.Db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:11391)
+    at async P.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:9803)
+    at async s.W (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2223:31433)
+    at async r.jb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1794:34418)
+    at async N.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2208:29093)
+    at async o.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2206:24813)
+    at async o.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2206:23340)
+    at async o.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2206:22329)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2334:26830
+    at async ee (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2226:49227)
+2024-07-25 13:49:41.938 [error] [Extension Host] (node:59099) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [TLSSocket]. Use emitter.setMaxListeners() to increase limit
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2024-07-25 13:49:41.938 [error] [Extension Host] (node:59099) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [TLSSocket]. Use emitter.setMaxListeners() to increase limit

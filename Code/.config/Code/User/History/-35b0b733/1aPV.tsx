@@ -1,0 +1,3 @@
+interface PathFindingContextInterface {
+    algorithm : AlgorithmType;
+}

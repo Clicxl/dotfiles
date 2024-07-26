@@ -1,0 +1,25 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    background-image: url(https://fastly.picsum.photos/id/881/1500/1000.jpg?hmac=dXh13zIKEA3vzcdotpbd2q3uYqF6kZKcicJeIXqSBdc);
+    background-size: cover;
+    text-align: center;
+    font-size: 10px;
+}
+
+
+
+.hand {
+    width: 50%;
+    height: 6px;
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    transform-origin: 100%;
+    transform: rotate(90deg);
+    transition: all 0.5s cubic-bezier(0.74, 0, 0.24, 0.87);
+}

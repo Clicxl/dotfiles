@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Inter:700|Inter:400');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-optical-sizing: auto;
+    background-color: #0B010A;
+    color: #FEE4FC;
+}
+
+.border:hover{
+    border: 2px solid #38F5A3;
+}
+
+.navbar {
+    font-size: 4.210rem;
+    display: flex;
+    font-weight: bolder;
+    height: 75px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.options-list {
+    display: flex;
+    justify-content: center;
+}
+
+.option {
+  height: 165px;
+  width: 165px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

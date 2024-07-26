@@ -1,0 +1,7 @@
+function updateSys() {
+    sudo nala update
+    sudo nala list --upgradeable
+    sudo nala upgrade -y
+    flatpak update -y
+}
+alias update=updateSys

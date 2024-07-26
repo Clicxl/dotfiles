@@ -1,0 +1,1047 @@
+2024-07-25 13:54:14.459 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-07-25 13:54:14.459 [info] Auto Sync is enabled.
+2024-07-25 13:54:14.459 [info] Auto Sync: Suspended until auth token is available.
+2024-07-25 13:54:18.783 [info] Auto Sync: Triggered by Interval
+2024-07-25 13:54:18.783 [info] Sync started.
+2024-07-25 13:54:19.506 [info] Profiles: Last sync resource does not exist locally.
+2024-07-25 13:54:26.510 [info] Settings: Last sync resource does not exist locally.
+2024-07-25 13:54:30.877 [info] Settings: Updated remote settings
+2024-07-25 13:54:30.908 [info] Settings: Updated last synchronized settings
+2024-07-25 13:54:30.915 [info] Keybindings: Last sync resource does not exist locally.
+2024-07-25 13:54:32.471 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:54:32.475 [info] Snippets: Last sync resource does not exist locally.
+2024-07-25 13:54:35.473 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:54:35.476 [info] Tasks: Last sync resource does not exist locally.
+2024-07-25 13:54:38.664 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:54:38.691 [info] GlobalState: Last sync resource does not exist locally.
+2024-07-25 13:54:39.791 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:54:39.792 [info] Extensions: Last sync resource does not exist locally.
+2024-07-25 13:54:42.005 [info] Extensions: Updated remote extensions. Added: ["aaron-bond.better-comments","alefragnani.project-manager","bierner.markdown-checkbox","bierner.markdown-emoji","bierner.markdown-preview-github-styles","eamodio.gitlens","emroussel.atomize-atom-one-dark-theme","kisstkondoros.vscode-gutter-preview","ms-vscode.atom-keybindings","ms-vscode.hexeditor","njpwerner.autodocstring","oderwat.indent-rainbow","tal7aouy.rainbow-bracket","visualstudioexptteam.intellicode-api-usage-examples","visualstudioexptteam.vscodeintellicode","vscodevim.vim","ziyasal.vscode-open-in-github"].
+2024-07-25 13:54:42.052 [info] Extensions: Updated last synchronized extensions. Skipped: ["stroupbslayen.vscord"].
+2024-07-25 13:54:42.091 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:54:42.117 [info] Syncing profile. Python
+2024-07-25 13:54:42.273 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:54:42.293 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:54:42.519 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:54:44.040 [info] Extensions (Python): Updated remote extensions. Added: ["charliermarsh.ruff","donjayamanne.python-environment-manager","eamodio.gitlens","jannisberndt.dark-orange","kevinrose.vsc-python-indent","mechatroner.rainbow-csv","ms-python.debugpy","ms-python.python","ms-python.vscode-pylance","ms-vscode.atom-keybindings","njpwerner.autodocstring","phplasma.csv-to-table","tomoki1207.pdf","visualstudioexptteam.intellicode-api-usage-examples","visualstudioexptteam.vscodeintellicode"].
+2024-07-25 13:54:44.075 [info] Extensions (Python): Updated last synchronized extensions.
+2024-07-25 13:54:44.079 [info] Syncing profile. Rust
+2024-07-25 13:54:44.087 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:54:44.095 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:54:44.367 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:54:45.391 [info] Extensions (Rust): Updated remote extensions. Added: ["1yib.rust-bundle","catppuccin.catppuccin-vsc","dunstontc.vscode-rust-syntax","dustypomerleau.rust-syntax","jannisberndt.dark-orange","ms-vscode.atom-keybindings","rust-lang.rust-analyzer","serayuzgur.crates"].
+2024-07-25 13:54:45.459 [info] Extensions (Rust): Updated last synchronized extensions.
+2024-07-25 13:54:45.461 [info] Syncing profile. Trash
+2024-07-25 13:54:45.560 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:54:45.576 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:54:45.584 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:54:45.741 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:54:46.683 [info] Extensions (Trash): Updated remote extensions. Added: ["bierner.markdown-emoji","ecmel.vscode-html-css","formulahendry.auto-close-tag","ritwickdey.liveserver","shd101wyy.markdown-preview-enhanced","yzhang.markdown-all-in-one"].
+2024-07-25 13:54:46.721 [info] Extensions (Trash): Updated last synchronized extensions.
+2024-07-25 13:54:46.725 [info] Syncing profile. Web Development
+2024-07-25 13:54:46.728 [info] Settings (Web Development): Migrating last sync user data. Resource does not exist.
+2024-07-25 13:54:46.730 [info] Settings (Web Development): Last sync data state does not exist.
+2024-07-25 13:54:47.560 [info] Settings (Web Development): Updated remote settings
+2024-07-25 13:54:47.599 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 13:54:47.602 [info] Keybindings (Web Development): Migrating last sync user data. Resource does not exist.
+2024-07-25 13:54:47.603 [info] Keybindings (Web Development): Last sync data state does not exist.
+2024-07-25 13:54:47.690 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:54:47.732 [info] Keybindings (Web Development): Updated last synchronized keybindings
+2024-07-25 13:54:47.740 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:54:47.754 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:54:49.276 [info] GlobalState (Web Development): Updated remote ui state. Updated: workbench.panel.pinnedPanels,commandPalette.mru.cache,commandPalette.mru.counter.
+2024-07-25 13:54:49.352 [info] GlobalState (Web Development): Updated last synchronized ui state
+2024-07-25 13:54:50.809 [info] Extensions (Web Development): Updated remote extensions. Added: ["aaron-bond.better-comments","bierner.markdown-preview-github-styles","bradlc.vscode-tailwindcss","ecmel.vscode-html-css","formulahendry.auto-rename-tag","pkief.material-icon-theme","quick-lint.quick-lint-js","ritwickdey.liveserver","yoavbls.pretty-ts-errors","zignd.html-css-class-completion"]. Updated: ["vscodevim.vim"].
+2024-07-25 13:54:50.842 [info] Extensions (Web Development): Updated last synchronized extensions.
+2024-07-25 13:54:50.850 [info] Sync done. Took 32065ms
+2024-07-25 13:54:50.851 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:54:50.852 [info] Sync started.
+2024-07-25 13:54:51.476 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:54:51.611 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:54:51.619 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:54:51.623 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:54:51.627 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:54:51.701 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:54:51.709 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:54:51.721 [info] Syncing profile. Python
+2024-07-25 13:54:51.727 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:54:51.734 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:54:51.737 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:54:51.777 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:54:51.778 [info] Syncing profile. Rust
+2024-07-25 13:54:51.781 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:54:51.783 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:54:51.786 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:54:51.846 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:54:51.846 [info] Syncing profile. Trash
+2024-07-25 13:54:51.849 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:54:51.853 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:54:51.857 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:54:51.863 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:54:51.950 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:54:51.956 [info] Syncing profile. Web Development
+2024-07-25 13:54:51.984 [info] Settings (Web Development): No changes found during synchronizing settings.
+2024-07-25 13:54:51.993 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:54:52.005 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:54:52.010 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:54:52.018 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:54:52.053 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:54:52.054 [info] Sync done. Took 1204ms
+2024-07-25 13:55:10.315 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:55:10.315 [info] Sync started.
+2024-07-25 13:55:10.417 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:55:10.434 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:55:10.442 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:55:10.448 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:55:10.457 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:55:10.547 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:55:10.553 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:55:10.555 [info] Syncing profile. Python
+2024-07-25 13:55:10.560 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:55:10.569 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:55:10.572 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:55:10.658 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:55:10.658 [info] Syncing profile. Rust
+2024-07-25 13:55:10.662 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:55:10.685 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:55:10.693 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:55:10.754 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:55:10.755 [info] Syncing profile. Trash
+2024-07-25 13:55:10.758 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:55:10.768 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:55:10.770 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:55:10.773 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:55:10.836 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:55:10.836 [info] Syncing profile. Web Development
+2024-07-25 13:55:11.627 [info] Settings (Web Development): Updated remote settings
+2024-07-25 13:55:11.656 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 13:55:11.670 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:55:11.678 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:55:11.684 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:55:11.693 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:55:11.761 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:55:11.763 [info] Sync done. Took 1448ms
+2024-07-25 13:55:25.623 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:55:25.624 [info] Sync started.
+2024-07-25 13:55:25.774 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:55:25.832 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:55:25.839 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:55:25.841 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:55:25.859 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:55:25.911 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:55:25.913 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:55:25.914 [info] Syncing profile. Python
+2024-07-25 13:55:25.917 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:55:25.920 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:55:25.923 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:55:25.967 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:55:25.972 [info] Syncing profile. Rust
+2024-07-25 13:55:25.977 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:55:25.981 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:55:25.983 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:55:26.013 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:55:26.013 [info] Syncing profile. Trash
+2024-07-25 13:55:26.015 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:55:26.018 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:55:26.021 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:55:26.023 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:55:26.048 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:55:26.048 [info] Syncing profile. Web Development
+2024-07-25 13:55:26.054 [error] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at P.Qb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:114:57921)
+    at P.qb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:114:53767)
+    at async P.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:114:17265)
+2024-07-25 13:55:26.054 [error] settings: Unable to sync settings as there are errors/warning in settings file.
+2024-07-25 13:55:26.060 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:55:26.064 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:55:26.066 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:55:26.069 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:55:26.099 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:55:26.100 [info] Sync done. Took 477ms
+2024-07-25 13:55:30.707 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:55:30.707 [info] Sync started.
+2024-07-25 13:55:30.831 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:55:30.845 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:55:30.851 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:55:30.856 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:55:30.863 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:55:30.922 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:55:30.924 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:55:30.927 [info] Syncing profile. Python
+2024-07-25 13:55:30.937 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:55:30.940 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:55:30.943 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:55:30.984 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:55:30.984 [info] Syncing profile. Rust
+2024-07-25 13:55:30.987 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:55:30.989 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:55:30.991 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:55:31.016 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:55:31.017 [info] Syncing profile. Trash
+2024-07-25 13:55:31.019 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:55:31.035 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:55:31.038 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:55:31.039 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:55:31.063 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:55:31.063 [info] Syncing profile. Web Development
+2024-07-25 13:55:31.066 [error] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at P.Qb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:114:57921)
+    at P.qb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:114:53767)
+    at async P.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:114:17265)
+2024-07-25 13:55:31.067 [error] settings: Unable to sync settings as there are errors/warning in settings file.
+2024-07-25 13:55:31.068 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:55:31.070 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:55:31.071 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:55:31.076 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:55:31.104 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:55:31.105 [info] Sync done. Took 399ms
+2024-07-25 13:55:33.031 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:55:33.031 [info] Sync started.
+2024-07-25 13:55:33.143 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:55:33.154 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:55:33.159 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:55:33.164 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:55:33.173 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:55:33.228 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:55:33.230 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:55:33.231 [info] Syncing profile. Python
+2024-07-25 13:55:33.234 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:55:33.237 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:55:33.241 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:55:33.278 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:55:33.283 [info] Syncing profile. Rust
+2024-07-25 13:55:33.286 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:55:33.292 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:55:33.293 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:55:33.321 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:55:33.322 [info] Syncing profile. Trash
+2024-07-25 13:55:33.323 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:55:33.326 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:55:33.327 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:55:33.329 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:55:33.365 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:55:33.366 [info] Syncing profile. Web Development
+2024-07-25 13:55:33.372 [error] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at P.Qb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:114:57921)
+    at P.qb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:114:53767)
+    at async P.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:114:17265)
+2024-07-25 13:55:33.372 [error] settings: Unable to sync settings as there are errors/warning in settings file.
+2024-07-25 13:55:33.374 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:55:33.377 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:55:33.384 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:55:33.391 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:55:33.450 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:55:33.453 [info] Sync done. Took 422ms
+2024-07-25 13:55:44.966 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:55:44.966 [info] Sync started.
+2024-07-25 13:55:45.056 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:55:45.063 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:55:45.067 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:55:45.069 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:55:45.074 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:55:45.117 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:55:45.118 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:55:45.119 [info] Syncing profile. Python
+2024-07-25 13:55:45.121 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:55:45.123 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:55:45.126 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:55:45.163 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:55:45.165 [info] Syncing profile. Rust
+2024-07-25 13:55:45.166 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:55:45.168 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:55:45.171 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:55:45.198 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:55:45.198 [info] Syncing profile. Trash
+2024-07-25 13:55:45.200 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:55:45.202 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:55:45.204 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:55:45.205 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:55:45.230 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:55:45.230 [info] Syncing profile. Web Development
+2024-07-25 13:55:45.238 [info] Settings (Web Development): No changes found during synchronizing settings.
+2024-07-25 13:55:45.240 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:55:45.242 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:55:45.245 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:55:45.248 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:55:45.276 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:55:45.277 [info] Sync done. Took 311ms
+2024-07-25 13:55:48.762 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:55:48.768 [info] Sync started.
+2024-07-25 13:55:48.920 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:55:49.560 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:55:49.572 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:55:49.577 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:55:49.638 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:55:50.133 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:55:50.148 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:55:50.149 [info] Syncing profile. Python
+2024-07-25 13:55:50.152 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:55:50.156 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:55:50.160 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:55:50.361 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:55:50.368 [info] Syncing profile. Rust
+2024-07-25 13:55:50.373 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:55:50.383 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:55:50.386 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:55:50.492 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:55:50.497 [info] Syncing profile. Trash
+2024-07-25 13:55:50.508 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:55:50.530 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:55:50.544 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:55:50.549 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:55:50.641 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:55:50.645 [info] Syncing profile. Web Development
+2024-07-25 13:55:51.340 [info] Settings (Web Development): Updated remote settings
+2024-07-25 13:55:51.385 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 13:55:51.405 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:55:51.409 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:55:51.421 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:55:51.429 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:55:51.543 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:55:51.549 [info] Sync done. Took 2788ms
+2024-07-25 13:56:18.053 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:56:18.054 [info] Sync started.
+2024-07-25 13:56:18.235 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:56:18.252 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:56:18.256 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:56:18.259 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:56:18.264 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:56:18.311 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:56:18.316 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:56:18.316 [info] Syncing profile. Python
+2024-07-25 13:56:18.319 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:56:18.325 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:56:18.328 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:56:18.372 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:56:18.372 [info] Syncing profile. Rust
+2024-07-25 13:56:18.375 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:56:18.377 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:56:18.379 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:56:18.408 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:56:18.412 [info] Syncing profile. Trash
+2024-07-25 13:56:18.416 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:56:18.418 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:56:18.420 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:56:18.422 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:56:18.446 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:56:18.447 [info] Syncing profile. Web Development
+2024-07-25 13:56:18.458 [info] Settings (Web Development): No changes found during synchronizing settings.
+2024-07-25 13:56:18.461 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:56:18.464 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:56:18.467 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:56:18.472 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:56:18.500 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:56:18.501 [info] Sync done. Took 448ms
+2024-07-25 13:56:21.709 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:56:21.710 [info] Sync started.
+2024-07-25 13:56:21.799 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:56:21.817 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:56:21.821 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:56:21.828 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:56:21.841 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:56:21.930 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:56:21.941 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:56:21.947 [info] Syncing profile. Python
+2024-07-25 13:56:21.978 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:56:21.988 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:56:21.991 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:56:22.056 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:56:22.057 [info] Syncing profile. Rust
+2024-07-25 13:56:22.058 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:56:22.060 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:56:22.063 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:56:22.089 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:56:22.090 [info] Syncing profile. Trash
+2024-07-25 13:56:22.092 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:56:22.094 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:56:22.112 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:56:22.121 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:56:22.176 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:56:22.176 [info] Syncing profile. Web Development
+2024-07-25 13:56:22.879 [info] Settings (Web Development): Updated remote settings
+2024-07-25 13:56:22.919 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 13:56:22.930 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:56:22.937 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:56:22.943 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:56:22.960 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:56:23.022 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:56:23.023 [info] Sync done. Took 1315ms
+2024-07-25 13:56:27.638 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:56:27.641 [info] Sync started.
+2024-07-25 13:56:27.786 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:56:27.792 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:56:27.801 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:56:27.807 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:56:27.816 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:56:27.861 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:56:27.865 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:56:27.866 [info] Syncing profile. Python
+2024-07-25 13:56:27.871 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:56:27.873 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:56:27.875 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:56:27.930 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:56:27.930 [info] Syncing profile. Rust
+2024-07-25 13:56:27.932 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:56:27.935 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:56:27.938 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:56:27.975 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:56:27.978 [info] Syncing profile. Trash
+2024-07-25 13:56:27.983 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:56:27.986 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:56:27.989 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:56:27.991 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:56:28.021 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:56:28.026 [info] Syncing profile. Web Development
+2024-07-25 13:56:28.661 [info] Settings (Web Development): Updated remote settings
+2024-07-25 13:56:28.708 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 13:56:28.716 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:56:28.723 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:56:28.729 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:56:28.736 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:56:28.802 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:56:28.804 [info] Sync done. Took 1166ms
+2024-07-25 13:56:42.648 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:56:42.649 [info] Sync started.
+2024-07-25 13:56:42.851 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:56:42.863 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:56:42.871 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:56:42.877 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:56:42.888 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:56:42.986 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:56:42.992 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:56:42.994 [info] Syncing profile. Python
+2024-07-25 13:56:43.001 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:56:43.004 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:56:43.008 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:56:43.049 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:56:43.049 [info] Syncing profile. Rust
+2024-07-25 13:56:43.051 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:56:43.053 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:56:43.055 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:56:43.088 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:56:43.088 [info] Syncing profile. Trash
+2024-07-25 13:56:43.091 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:56:43.093 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:56:43.095 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:56:43.097 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:56:43.119 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:56:43.120 [info] Syncing profile. Web Development
+2024-07-25 13:56:43.770 [info] Settings (Web Development): Updated remote settings
+2024-07-25 13:56:43.810 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 13:56:43.817 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:56:43.824 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:56:43.831 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:56:43.840 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:56:43.910 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:56:43.916 [info] Sync done. Took 1269ms
+2024-07-25 13:56:51.023 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:56:51.023 [info] Sync started.
+2024-07-25 13:56:51.322 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:56:51.336 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:56:51.347 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:56:51.356 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:56:51.367 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:56:51.447 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:56:51.449 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:56:51.450 [info] Syncing profile. Python
+2024-07-25 13:56:51.455 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:56:51.458 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:56:51.462 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:56:51.509 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:56:51.509 [info] Syncing profile. Rust
+2024-07-25 13:56:51.512 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:56:51.514 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:56:51.516 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:56:51.543 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:56:51.544 [info] Syncing profile. Trash
+2024-07-25 13:56:51.545 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:56:51.547 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:56:51.549 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:56:51.551 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:56:51.592 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:56:51.597 [info] Syncing profile. Web Development
+2024-07-25 13:56:52.223 [info] Settings (Web Development): Updated remote settings
+2024-07-25 13:56:52.261 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 13:56:52.272 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:56:52.276 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:56:52.287 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:56:52.297 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:56:52.373 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:56:52.374 [info] Sync done. Took 1351ms
+2024-07-25 13:56:54.990 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:56:54.990 [info] Sync started.
+2024-07-25 13:56:55.148 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:56:55.157 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:56:55.162 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:56:55.167 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:56:55.174 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:56:55.241 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:56:55.243 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:56:55.246 [info] Syncing profile. Python
+2024-07-25 13:56:55.249 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:56:55.253 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:56:55.257 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:56:55.302 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:56:55.303 [info] Syncing profile. Rust
+2024-07-25 13:56:55.304 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:56:55.306 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:56:55.309 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:56:55.335 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:56:55.336 [info] Syncing profile. Trash
+2024-07-25 13:56:55.337 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:56:55.339 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:56:55.342 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:56:55.344 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:56:55.370 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:56:55.371 [info] Syncing profile. Web Development
+2024-07-25 13:56:56.034 [info] Settings (Web Development): Updated remote settings
+2024-07-25 13:56:56.080 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 13:56:56.087 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:56:56.094 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:56:56.101 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:56:56.110 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:56:56.192 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:56:56.193 [info] Sync done. Took 1204ms
+2024-07-25 13:57:30.008 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:57:30.008 [info] Sync started.
+2024-07-25 13:57:30.912 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:57:30.919 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:57:30.921 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:57:30.924 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:57:30.928 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:57:30.973 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:57:30.981 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:57:30.982 [info] Syncing profile. Python
+2024-07-25 13:57:30.985 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:57:30.987 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:57:30.989 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:57:31.049 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:57:31.051 [info] Syncing profile. Rust
+2024-07-25 13:57:31.053 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:57:31.055 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:57:31.058 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:57:31.087 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:57:31.090 [info] Syncing profile. Trash
+2024-07-25 13:57:31.096 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:57:31.102 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:57:31.104 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:57:31.106 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:57:31.137 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:57:31.138 [info] Syncing profile. Web Development
+2024-07-25 13:57:32.289 [info] Settings (Web Development): Updated remote settings
+2024-07-25 13:57:32.330 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 13:57:32.338 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:57:32.349 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:57:32.366 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:57:32.466 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:57:32.749 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:57:32.764 [info] Sync done. Took 2758ms
+2024-07-25 13:57:33.327 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:57:33.327 [info] Sync started.
+2024-07-25 13:57:33.768 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:57:33.772 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:57:33.774 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:57:33.778 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:57:33.782 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:57:33.823 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:57:33.827 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:57:33.829 [info] Syncing profile. Python
+2024-07-25 13:57:33.831 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:57:33.834 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:57:33.837 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:57:33.875 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:57:33.875 [info] Syncing profile. Rust
+2024-07-25 13:57:33.877 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:57:33.880 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:57:33.882 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:57:33.916 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:57:33.916 [info] Syncing profile. Trash
+2024-07-25 13:57:33.918 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:57:33.926 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:57:33.928 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:57:33.931 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:57:33.959 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:57:33.963 [info] Syncing profile. Web Development
+2024-07-25 13:57:33.969 [info] Settings (Web Development): No changes found during synchronizing settings.
+2024-07-25 13:57:33.971 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:57:33.974 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:57:33.976 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:57:33.979 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:57:34.006 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:57:34.007 [info] Sync done. Took 680ms
+2024-07-25 13:57:52.036 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:57:52.036 [info] Sync started.
+2024-07-25 13:57:52.160 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:57:52.753 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:57:52.765 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:57:52.769 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:57:52.776 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:57:52.844 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:57:52.846 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:57:52.856 [info] Syncing profile. Python
+2024-07-25 13:57:52.865 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:57:52.869 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:57:52.873 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:57:53.022 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:57:53.027 [info] Syncing profile. Rust
+2024-07-25 13:57:53.030 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:57:53.042 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:57:53.047 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:57:53.105 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:57:53.114 [info] Syncing profile. Trash
+2024-07-25 13:57:53.123 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:57:53.141 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:57:53.169 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:57:53.175 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:57:53.278 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:57:53.283 [info] Syncing profile. Web Development
+2024-07-25 13:57:54.008 [info] Settings (Web Development): Updated remote settings
+2024-07-25 13:57:54.056 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 13:57:54.063 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:57:54.070 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:57:54.076 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:57:54.085 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:57:54.145 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:57:54.148 [info] Sync done. Took 2113ms
+2024-07-25 13:58:11.966 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:58:11.967 [info] Sync started.
+2024-07-25 13:58:12.122 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:58:12.140 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:58:12.151 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:58:12.158 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:58:12.169 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:58:12.242 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:58:12.244 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:58:12.246 [info] Syncing profile. Python
+2024-07-25 13:58:12.250 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:58:12.253 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:58:12.257 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:58:12.299 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:58:12.302 [info] Syncing profile. Rust
+2024-07-25 13:58:12.305 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:58:12.310 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:58:12.312 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:58:12.340 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:58:12.341 [info] Syncing profile. Trash
+2024-07-25 13:58:12.342 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:58:12.346 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:58:12.348 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:58:12.349 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:58:12.377 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:58:12.379 [info] Syncing profile. Web Development
+2024-07-25 13:58:13.084 [info] Settings (Web Development): Updated remote settings
+2024-07-25 13:58:13.119 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 13:58:13.124 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:58:13.129 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:58:13.133 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:58:13.139 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:58:13.216 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:58:13.218 [info] Sync done. Took 1252ms
+2024-07-25 13:58:16.471 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:58:16.471 [info] Sync started.
+2024-07-25 13:58:16.630 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:58:16.646 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:58:16.654 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:58:16.663 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:58:16.671 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:58:16.725 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:58:16.727 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:58:16.728 [info] Syncing profile. Python
+2024-07-25 13:58:16.732 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:58:16.734 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:58:16.738 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:58:16.782 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:58:16.783 [info] Syncing profile. Rust
+2024-07-25 13:58:16.784 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:58:16.786 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:58:16.789 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:58:16.827 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:58:16.828 [info] Syncing profile. Trash
+2024-07-25 13:58:16.830 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:58:16.831 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:58:16.833 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:58:16.834 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:58:16.857 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:58:16.860 [info] Syncing profile. Web Development
+2024-07-25 13:58:17.505 [info] Settings (Web Development): Updated remote settings
+2024-07-25 13:58:17.548 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 13:58:17.552 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:58:17.554 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:58:17.560 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:58:17.564 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:58:17.600 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:58:17.601 [info] Sync done. Took 1131ms
+2024-07-25 13:58:19.363 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:58:19.363 [info] Sync started.
+2024-07-25 13:58:19.514 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:58:19.528 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:58:19.549 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:58:19.554 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:58:19.562 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:58:19.627 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:58:19.632 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:58:19.633 [info] Syncing profile. Python
+2024-07-25 13:58:19.637 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:58:19.639 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:58:19.643 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:58:19.688 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:58:19.689 [info] Syncing profile. Rust
+2024-07-25 13:58:19.690 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:58:19.692 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:58:19.695 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:58:19.726 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:58:19.727 [info] Syncing profile. Trash
+2024-07-25 13:58:19.729 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:58:19.731 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:58:19.756 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:58:19.758 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:58:19.794 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:58:19.796 [info] Syncing profile. Web Development
+2024-07-25 13:58:20.486 [info] Settings (Web Development): Updated remote settings
+2024-07-25 13:58:20.532 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 13:58:20.537 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:58:20.543 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:58:20.549 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:58:20.556 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:58:20.621 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:58:20.626 [info] Sync done. Took 1263ms
+2024-07-25 13:58:24.658 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:58:24.659 [info] Sync started.
+2024-07-25 13:58:24.815 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:58:24.824 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:58:24.829 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:58:24.832 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:58:24.835 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:58:24.881 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:58:24.883 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:58:24.885 [info] Syncing profile. Python
+2024-07-25 13:58:24.888 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:58:24.890 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:58:24.892 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:58:24.929 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:58:24.930 [info] Syncing profile. Rust
+2024-07-25 13:58:24.933 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:58:24.935 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:58:24.937 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:58:24.964 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:58:24.965 [info] Syncing profile. Trash
+2024-07-25 13:58:24.967 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:58:24.969 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:58:24.971 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:58:24.972 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:58:25.000 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:58:25.002 [info] Syncing profile. Web Development
+2024-07-25 13:58:25.012 [error] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: Unable to sync settings as there are errors/warning in settings file.
+    at P.Qb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:114:57921)
+    at P.qb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:114:53767)
+    at async P.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:114:17265)
+2024-07-25 13:58:25.013 [error] settings: Unable to sync settings as there are errors/warning in settings file.
+2024-07-25 13:58:25.017 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:58:25.019 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:58:25.021 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:58:25.024 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:58:25.049 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:58:25.050 [info] Sync done. Took 393ms
+2024-07-25 13:58:55.172 [info] Auto Sync: Triggered by Activity
+2024-07-25 13:58:55.173 [info] Sync started.
+2024-07-25 13:58:55.271 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 13:58:55.285 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 13:58:55.290 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 13:58:55.292 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 13:58:55.298 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 13:58:55.335 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 13:58:55.336 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 13:58:55.337 [info] Syncing profile. Python
+2024-07-25 13:58:55.339 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 13:58:55.341 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 13:58:55.348 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 13:58:55.426 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 13:58:55.426 [info] Syncing profile. Rust
+2024-07-25 13:58:55.429 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 13:58:55.433 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 13:58:55.437 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 13:58:55.463 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 13:58:55.464 [info] Syncing profile. Trash
+2024-07-25 13:58:55.466 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 13:58:55.468 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 13:58:55.470 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 13:58:55.472 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 13:58:55.496 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 13:58:55.496 [info] Syncing profile. Web Development
+2024-07-25 13:58:56.117 [info] Settings (Web Development): Updated remote settings
+2024-07-25 13:58:56.149 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 13:58:56.154 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 13:58:56.159 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 13:58:56.167 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 13:58:56.174 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 13:58:56.253 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 13:58:56.256 [info] Sync done. Took 1083ms
+2024-07-25 14:01:04.701 [info] Auto Sync: Triggered by Activity
+2024-07-25 14:01:04.701 [info] Sync started.
+2024-07-25 14:01:04.861 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 14:01:04.869 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 14:01:04.873 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 14:01:04.879 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 14:01:04.886 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 14:01:04.958 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 14:01:04.960 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 14:01:04.962 [info] Syncing profile. Python
+2024-07-25 14:01:04.965 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 14:01:04.969 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 14:01:04.974 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 14:01:05.065 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 14:01:05.066 [info] Syncing profile. Rust
+2024-07-25 14:01:05.069 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 14:01:05.072 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 14:01:05.078 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 14:01:05.164 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 14:01:05.165 [info] Syncing profile. Trash
+2024-07-25 14:01:05.171 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 14:01:05.174 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 14:01:05.177 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 14:01:05.179 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 14:01:05.216 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 14:01:05.216 [info] Syncing profile. Web Development
+2024-07-25 14:01:05.878 [info] Settings (Web Development): Updated remote settings
+2024-07-25 14:01:05.932 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 14:01:05.937 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 14:01:05.946 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 14:01:05.951 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 14:01:05.958 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 14:01:06.030 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 14:01:06.031 [info] Sync done. Took 1331ms
+2024-07-25 14:02:26.355 [info] Auto Sync: Triggered by Activity
+2024-07-25 14:02:26.356 [info] Sync started.
+2024-07-25 14:02:26.514 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 14:02:26.526 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 14:02:26.533 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 14:02:26.540 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 14:02:26.549 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 14:02:26.631 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 14:02:26.639 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 14:02:26.642 [info] Syncing profile. Python
+2024-07-25 14:02:26.645 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 14:02:26.649 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 14:02:26.652 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 14:02:26.691 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 14:02:26.692 [info] Syncing profile. Rust
+2024-07-25 14:02:26.694 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 14:02:26.696 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 14:02:26.698 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 14:02:26.730 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 14:02:26.731 [info] Syncing profile. Trash
+2024-07-25 14:02:26.733 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 14:02:26.734 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 14:02:26.736 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 14:02:26.737 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 14:02:26.760 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 14:02:26.760 [info] Syncing profile. Web Development
+2024-07-25 14:02:27.407 [info] Settings (Web Development): Updated remote settings
+2024-07-25 14:02:27.450 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 14:02:27.457 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 14:02:27.463 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 14:02:27.469 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 14:02:27.478 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 14:02:27.563 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 14:02:27.570 [info] Sync done. Took 1215ms
+2024-07-25 14:04:31.216 [info] Auto Sync: Triggered by Activity
+2024-07-25 14:04:31.216 [info] Sync started.
+2024-07-25 14:04:31.571 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 14:04:31.581 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 14:04:31.594 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 14:04:31.602 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 14:04:31.612 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 14:04:31.723 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 14:04:31.730 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 14:04:31.734 [info] Syncing profile. Python
+2024-07-25 14:04:31.753 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 14:04:31.764 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 14:04:31.771 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 14:04:31.906 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 14:04:31.912 [info] Syncing profile. Rust
+2024-07-25 14:04:31.917 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 14:04:31.924 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 14:04:31.935 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 14:04:32.003 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 14:04:32.004 [info] Syncing profile. Trash
+2024-07-25 14:04:32.005 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 14:04:32.013 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 14:04:32.019 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 14:04:32.023 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 14:04:32.094 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 14:04:32.098 [info] Syncing profile. Web Development
+2024-07-25 14:04:32.812 [info] Settings (Web Development): Updated remote settings
+2024-07-25 14:04:32.849 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 14:04:32.852 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 14:04:32.858 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 14:04:32.879 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 14:04:32.880 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 14:04:33.002 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 14:04:33.005 [info] Sync done. Took 1788ms
+2024-07-25 14:04:43.760 [info] Auto Sync: Triggered by Activity
+2024-07-25 14:04:43.761 [info] Sync started.
+2024-07-25 14:04:43.930 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 14:04:43.942 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 14:04:43.947 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 14:04:43.954 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 14:04:43.962 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 14:04:44.024 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 14:04:44.031 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 14:04:44.033 [info] Syncing profile. Python
+2024-07-25 14:04:44.036 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 14:04:44.039 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 14:04:44.044 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 14:04:44.085 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 14:04:44.085 [info] Syncing profile. Rust
+2024-07-25 14:04:44.087 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 14:04:44.094 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 14:04:44.098 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 14:04:44.130 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 14:04:44.141 [info] Syncing profile. Trash
+2024-07-25 14:04:44.145 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 14:04:44.148 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 14:04:44.150 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 14:04:44.162 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 14:04:44.192 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 14:04:44.193 [info] Syncing profile. Web Development
+2024-07-25 14:04:44.202 [info] Settings (Web Development): No changes found during synchronizing settings.
+2024-07-25 14:04:44.206 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 14:04:44.210 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 14:04:44.214 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 14:04:44.216 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 14:04:44.240 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 14:04:44.241 [info] Sync done. Took 481ms
+2024-07-25 14:04:51.425 [info] Auto Sync: Triggered by Activity
+2024-07-25 14:04:51.425 [info] Sync started.
+2024-07-25 14:04:51.555 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 14:04:51.566 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 14:04:51.573 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 14:04:51.578 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 14:04:51.585 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 14:04:51.651 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 14:04:51.652 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 14:04:51.654 [info] Syncing profile. Python
+2024-07-25 14:04:51.657 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 14:04:51.659 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 14:04:51.663 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 14:04:51.714 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 14:04:51.714 [info] Syncing profile. Rust
+2024-07-25 14:04:51.716 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 14:04:51.718 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 14:04:51.721 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 14:04:51.747 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 14:04:51.747 [info] Syncing profile. Trash
+2024-07-25 14:04:51.749 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 14:04:51.751 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 14:04:51.752 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 14:04:51.754 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 14:04:51.778 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 14:04:51.779 [info] Syncing profile. Web Development
+2024-07-25 14:04:52.455 [info] Settings (Web Development): Updated remote settings
+2024-07-25 14:04:52.492 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 14:04:52.498 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 14:04:52.505 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 14:04:52.515 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 14:04:52.525 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 14:04:52.609 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 14:04:52.610 [info] Sync done. Took 1185ms
+2024-07-25 14:05:21.654 [info] Auto Sync: Triggered by Activity
+2024-07-25 14:05:21.655 [info] Sync started.
+2024-07-25 14:05:21.904 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 14:05:21.920 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 14:05:21.929 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 14:05:21.934 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 14:05:21.942 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 14:05:22.019 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 14:05:22.022 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 14:05:22.024 [info] Syncing profile. Python
+2024-07-25 14:05:22.026 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 14:05:22.033 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 14:05:22.037 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 14:05:22.088 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 14:05:22.089 [info] Syncing profile. Rust
+2024-07-25 14:05:22.091 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 14:05:22.092 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 14:05:22.095 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 14:05:22.120 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 14:05:22.121 [info] Syncing profile. Trash
+2024-07-25 14:05:22.125 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 14:05:22.128 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 14:05:22.132 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 14:05:22.134 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 14:05:22.168 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 14:05:22.169 [info] Syncing profile. Web Development
+2024-07-25 14:05:22.859 [info] Settings (Web Development): Updated remote settings
+2024-07-25 14:05:22.903 [info] Settings (Web Development): Updated last synchronized settings
+2024-07-25 14:05:22.910 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 14:05:22.919 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 14:05:22.924 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 14:05:22.931 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 14:05:23.016 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 14:05:23.018 [info] Sync done. Took 1364ms
+2024-07-25 14:05:24.001 [info] Auto Sync: Triggered by Activity
+2024-07-25 14:05:24.002 [info] Sync started.
+2024-07-25 14:05:24.191 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 14:05:24.203 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 14:05:24.212 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 14:05:24.218 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 14:05:24.228 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 14:05:24.303 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 14:05:24.305 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 14:05:24.307 [info] Syncing profile. Python
+2024-07-25 14:05:24.311 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 14:05:24.314 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 14:05:24.318 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 14:05:24.370 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 14:05:24.370 [info] Syncing profile. Rust
+2024-07-25 14:05:24.372 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 14:05:24.376 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 14:05:24.379 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 14:05:24.406 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 14:05:24.407 [info] Syncing profile. Trash
+2024-07-25 14:05:24.408 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 14:05:24.410 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 14:05:24.412 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 14:05:24.414 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 14:05:24.443 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 14:05:24.443 [info] Syncing profile. Web Development
+2024-07-25 14:05:24.449 [info] Settings (Web Development): No changes found during synchronizing settings.
+2024-07-25 14:05:24.451 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 14:05:24.453 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 14:05:24.455 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 14:05:24.458 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 14:05:24.491 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 14:05:24.492 [info] Sync done. Took 492ms
+2024-07-25 14:05:36.740 [info] Auto Sync: Triggered by Activity
+2024-07-25 14:05:36.741 [info] Sync started.
+2024-07-25 14:05:36.845 [info] Settings: No changes found during synchronizing settings.
+2024-07-25 14:05:36.862 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-25 14:05:36.870 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-25 14:05:36.878 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-25 14:05:36.888 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-25 14:05:36.950 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-25 14:05:36.951 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-25 14:05:36.953 [info] Syncing profile. Python
+2024-07-25 14:05:36.956 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-07-25 14:05:36.959 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-07-25 14:05:36.962 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-07-25 14:05:37.013 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-07-25 14:05:37.014 [info] Syncing profile. Rust
+2024-07-25 14:05:37.015 [info] Snippets (Rust): No changes found during synchronizing snippets.
+2024-07-25 14:05:37.017 [info] Tasks (Rust): No changes found during synchronizing tasks.
+2024-07-25 14:05:37.019 [info] GlobalState (Rust): No changes found during synchronizing ui state.
+2024-07-25 14:05:37.043 [info] Extensions (Rust): No changes found during synchronizing extensions.
+2024-07-25 14:05:37.046 [info] Syncing profile. Trash
+2024-07-25 14:05:37.047 [info] Keybindings (Trash): No changes found during synchronizing keybindings.
+2024-07-25 14:05:37.049 [info] Snippets (Trash): No changes found during synchronizing snippets.
+2024-07-25 14:05:37.051 [info] Tasks (Trash): No changes found during synchronizing tasks.
+2024-07-25 14:05:37.052 [info] GlobalState (Trash): No changes found during synchronizing ui state.
+2024-07-25 14:05:37.075 [info] Extensions (Trash): No changes found during synchronizing extensions.
+2024-07-25 14:05:37.076 [info] Syncing profile. Web Development
+2024-07-25 14:05:37.083 [info] Settings (Web Development): No changes found during synchronizing settings.
+2024-07-25 14:05:37.087 [info] Keybindings (Web Development): No changes found during synchronizing keybindings.
+2024-07-25 14:05:37.090 [info] Snippets (Web Development): No changes found during synchronizing snippets.
+2024-07-25 14:05:37.092 [info] Tasks (Web Development): No changes found during synchronizing tasks.
+2024-07-25 14:05:37.095 [info] GlobalState (Web Development): No changes found during synchronizing ui state.
+2024-07-25 14:05:37.120 [info] Extensions (Web Development): No changes found during synchronizing extensions.
+2024-07-25 14:05:37.120 [info] Sync done. Took 381ms

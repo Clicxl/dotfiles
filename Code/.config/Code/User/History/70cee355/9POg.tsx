@@ -1,0 +1,3 @@
+interface TileContentInterface {
+    startTile: TileT
+}

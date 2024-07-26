@@ -1,0 +1,4 @@
+.venv/
+.vscode/
+scripts/__pycache__/
+.gitignore

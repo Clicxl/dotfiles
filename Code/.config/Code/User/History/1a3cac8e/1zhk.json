@@ -1,0 +1,6 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "'jetbrainsmono', 'firacode','cascadiacode'",
+  "editor.tabSize": 2,
+  "editor.lineNumbers": "relative"
+}

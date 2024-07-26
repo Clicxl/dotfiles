@@ -1,0 +1,21 @@
+#!/bin/bash
+
+#Update && Switching to Windows
+function updateSys() {
+    sudo nala update
+    sudo nala list --upgradeable
+    sudo nala upgrade -y
+    brew update
+    flatpak update -y
+}
+
+function switchWindows() {
+    sudo grub-reboot 'Windows Boot Manager (on /dev/sda1)'
+    sudo reboot
+}
+
+alias update=updateSys
+alias windows=switchWindows
+alias cls=clear
+
+# ls to eza

@@ -1,0 +1,24 @@
+2024-07-25 15:28:53.744 [info] Extension host with pid 76724 started
+2024-07-25 15:28:54.178 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-07-25 15:28:54.355 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-25 15:28:54.366 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-25 15:28:54.521 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-25 15:28:54.902 [info] Eager extensions activated
+2024-07-25 15:28:55.135 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-25 15:28:55.148 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-25 15:28:55.287 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-07-25 15:28:55.408 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-07-25 15:28:55.416 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-07-25 15:28:56.000 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-07-25 15:28:56.084 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-07-25 15:28:56.613 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-25 15:28:56.673 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at new I (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:34990)
+	at S.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6023)
+	at z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+	at M.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:43347)
+	at Object.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:32082)
+	at useProxySettings (/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:179:16)
+	at /usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:114:13
+	at /usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:481:13 
+2024-07-25 15:28:56.692 [info] Extension host with pid 76724 exiting with code 0

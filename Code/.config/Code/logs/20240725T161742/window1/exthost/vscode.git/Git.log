@@ -1,0 +1,35 @@
+2024-07-25 16:17:47.633 [info] Log level: Info
+2024-07-25 16:17:47.633 [info] Validating found git in: "git"
+2024-07-25 16:17:47.633 [info] Using git "2.34.1" from "git"
+2024-07-25 16:17:47.633 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-25 16:17:47.635 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-07-25 16:17:47.652 [info] Open repository: /home/hrishikesh/Documents/Coding/javaScript/ModDownload
+2024-07-25 16:17:47.681 [info] > git config --get commit.template [11ms]
+2024-07-25 16:17:47.684 [info] > git rev-parse --show-toplevel [7ms]
+2024-07-25 16:17:49.058 [info] > git rev-parse --show-toplevel [1350ms]
+2024-07-25 16:17:49.058 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1362ms]
+2024-07-25 16:17:49.369 [info] > git rev-parse --show-toplevel [74ms]
+2024-07-25 16:17:49.455 [info] > git status -z -uall [67ms]
+2024-07-25 16:17:49.540 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [61ms]
+2024-07-25 16:17:49.580 [info] > git config --local branch.main.vscode-merge-base [25ms]
+2024-07-25 16:17:49.580 [warning] git config failed: Failed to execute git
+2024-07-25 16:17:49.587 [info] > git config --get commit.template [58ms]
+2024-07-25 16:17:49.620 [info] > git check-ignore -v -z --stdin [7ms]
+2024-07-25 16:17:49.621 [info] > git reflog main --grep-reflog=branch: Created from *. [34ms]
+2024-07-25 16:17:49.652 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [22ms]
+2024-07-25 16:17:49.652 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-07-25 16:17:49.706 [info] > git merge-base refs/heads/main refs/remotes/origin/main [41ms]
+2024-07-25 16:17:49.718 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [68ms]
+2024-07-25 16:17:49.755 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [37ms]
+2024-07-25 16:17:49.784 [info] > git diff --name-status -z --diff-filter=ADMR 0fbc8618d08288c7e5c00344acc1c14a4ef309c7...refs/remotes/origin/main [3ms]
+2024-07-25 16:17:49.819 [info] > git status -z -uall [15ms]
+2024-07-25 16:17:49.879 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2024-07-25 16:17:49.921 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-07-25 16:17:49.921 [warning] git config failed: Failed to execute git
+2024-07-25 16:17:49.961 [info] > git reflog main --grep-reflog=branch: Created from *. [9ms]
+2024-07-25 16:17:50.084 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [69ms]
+2024-07-25 16:17:50.085 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-07-25 16:17:50.287 [info] > git show --textconv :src/App.jsx [32ms]
+2024-07-25 16:17:50.292 [info] > git ls-files --stage -- /home/hrishikesh/Documents/Coding/javaScript/ModDownload/src/App.jsx [13ms]
+2024-07-25 16:17:50.321 [info] > git cat-file -s 55ce10c14bf4a560dec9d7d429f5c3f7008502ac [4ms]
+2024-07-25 16:17:52.322 [info] > git check-ignore -v -z --stdin [1ms]

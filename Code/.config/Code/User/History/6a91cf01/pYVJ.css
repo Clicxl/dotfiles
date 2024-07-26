@@ -1,0 +1,19 @@
+.Loader {
+  height: 4rem;
+  width: 30%;
+}
+
+.modLoader {
+  width: 30%;
+  height: 100%;
+  padding-left: 1rem;
+  background-color: #121212;
+  border-radius: 1rem;
+  border: transparent;
+  background-image: url("./down-arrow.svg");
+
+}
+
+.modLoader:focus-visible {
+  outline: transparent;
+}

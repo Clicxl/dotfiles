@@ -1,0 +1,43 @@
+2024-07-25 13:28:21.327 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-07-25 13:28:21.327 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-07-25 13:28:21.327 [info] Added views:terminal in terminal
+2024-07-25 13:28:21.327 [info] Added views:workbench.scm in workbench.view.scm
+2024-07-25 13:28:21.327 [info] Added views:workbench.view.search in workbench.view.search
+2024-07-25 13:28:21.327 [info] Added views:timeline in workbench.view.explorer
+2024-07-25 13:28:21.327 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2024-07-25 13:28:21.700 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-07-25 13:28:23.214 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-07-25 13:28:23.362 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-07-25 13:38:34.770 [info] View visibility state changed: terminal is now visible Output
+2024-07-25 13:38:34.771 [info] View visibility state changed: gitlens.views.repositories is now visible Source Control
+2024-07-25 13:38:34.771 [info] View visibility state changed: gitlens.views.commits is now visible Source Control
+2024-07-25 13:38:34.771 [info] View visibility state changed: gitlens.views.branches is now visible Source Control
+2024-07-25 13:38:34.771 [info] View visibility state changed: gitlens.views.remotes is now visible Source Control
+2024-07-25 13:38:34.771 [info] View visibility state changed: gitlens.views.stashes is now visible Source Control
+2024-07-25 13:38:34.771 [info] View visibility state changed: gitlens.views.tags is now visible Source Control
+2024-07-25 13:38:34.771 [info] View visibility state changed: gitlens.views.contributors is now visible Source Control
+2024-07-25 13:38:34.782 [info] View visibility state changed: outline is now visible Explorer
+2024-07-25 13:38:34.782 [info] View visibility state changed: workbench.explorer.openEditorsView is now visible Explorer
+2024-07-25 13:38:34.782 [info] Showing view outline in the container workbench.view.explorer
+2024-07-25 13:38:34.783 [info] Showing view workbench.explorer.openEditorsView in the container workbench.view.explorer
+2024-07-25 13:38:34.813 [info] Added views:outline,workbench.explorer.openEditorsView in workbench.view.explorer
+2024-07-25 13:38:34.829 [info] Removed views:terminal from terminal
+2024-07-25 13:38:34.831 [info] Added views:terminal in workbench.panel.output
+2024-07-25 13:38:34.832 [info] Removed views:workbench.panel.output from workbench.panel.output
+2024-07-25 13:38:34.836 [info] Added views:workbench.panel.output in workbench.views.service.panel.df029bca-1233-4ab5-9699-401eb50a88f3
+2024-07-25 13:38:35.815 [info] Removed views:workbench.panel.repl.view from workbench.panel.repl
+2024-07-25 13:38:35.902 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-07-25 13:38:56.078 [info] Removed views:outline,workbench.explorer.openEditorsView from workbench.view.explorer
+2024-07-25 13:38:56.080 [info] Removed views:terminal from workbench.panel.output
+2024-07-25 13:38:56.085 [info] Added views:terminal in terminal
+2024-07-25 13:38:56.092 [info] Removed views:workbench.panel.output from workbench.views.service.panel.df029bca-1233-4ab5-9699-401eb50a88f3
+2024-07-25 13:38:56.099 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-07-25 13:38:59.406 [info] Added views:workbench.views.profiles.export.preview in userDataProfiles
+2024-07-25 13:39:32.475 [info] Added views:workbench.views.extensions.installed,workbench.views.extensions.popular,extensions.recommendedList in workbench.view.extensions
+2024-07-25 13:39:32.481 [info] Removed views:workbench.views.extensions.popular from workbench.view.extensions
+2024-07-25 13:39:39.516 [info] Removed views:extensions.recommendedList,workbench.views.extensions.installed from workbench.view.extensions
+2024-07-25 13:39:39.555 [info] Added views:workbench.views.extensions.marketplace in workbench.view.extensions
+2024-07-25 13:40:28.245 [info] Removed views:workbench.views.profiles.export.preview from userDataProfiles
+2024-07-25 13:40:44.191 [info] Removed views:workbench.panel.repl.view from workbench.panel.repl
+2024-07-25 13:40:44.281 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-07-25 13:44:49.422 [info] Added views:workbench.views.profiles.export.preview in userDataProfiles
