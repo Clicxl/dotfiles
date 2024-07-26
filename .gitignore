@@ -1,0 +1,32 @@
+Code/.config/Code/code.lock
+Code/.config/Code/Cookies
+Code/.config/Code/Cookies-journal
+Code/.config/Code/languagepacks.json
+Code/.config/Code/machineid
+Code/.config/Code/Network Persistent State
+Code/.config/Code/Preferences
+Code/.config/Code/TransportSecurity
+Code/.config/Code/Trust Tokens
+Code/.config/Code/Trust Tokens-journal
+Code/.config/Code/Cache/Cache_Data/
+Code/.config/Code/CachedData/
+
+Code/.config/Code/CachedProfilesData/
+Code/.config/Code/Code Cache/
+Code/.config/Code/Crashpad/
+Code/.config/Code/databases/
+Code/.config/Code/DawnCache/
+Code/.config/Code/Dictionaries/
+Code/.config/Code/GPUCache/
+Code/.config/Code/GPUCache/
+Code/.config/Code/Local Storage/
+Code/.config/Code/logs/
+Code/.config/Code/Service Worker/Database/
+Code/.config/Code/Service Worker/ScriptCache/
+Code/.config/Code/Session Storage/
+Code/.config/Code/Shared Dictionary/
+Code/.config/Code/User/globalStorage
+Code/.config/Code/User/History/
+Code/.config/Code/User/workspaceStorage/
+Code/.config/Code/WebStorage/
+Code/.config/Code/SharedStorage
