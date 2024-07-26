@@ -30,3 +30,5 @@ Code/.config/Code/User/History/
 Code/.config/Code/User/workspaceStorage/
 Code/.config/Code/WebStorage/
 Code/.config/Code/SharedStorage
+nvim/.config/nvim/lazy-lock.json
+nvim/.config/nvim/lazyvim.json
