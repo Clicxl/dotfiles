@@ -1,9 +1,0 @@
-2024-07-25 15:13:33.606 [info] update#setState idle
-2024-07-25 15:14:03.609 [info] update#setState checking for updates
-2024-07-25 15:14:03.884 [info] update#setState idle
-2024-07-25 15:16:15.562 [info] update#setState checking for updates
-2024-07-25 15:16:15.860 [info] update#setState idle
-2024-07-25 15:20:19.636 [info] Extension host with pid 74121 exited with code: 0, signal: unknown.
-2024-07-25 15:20:48.603 [info] Extension host with pid 74831 exited with code: 0, signal: unknown.
-2024-07-25 15:22:11.578 [info] Extension host with pid 74946 exited with code: 0, signal: unknown.
-2024-07-25 15:22:39.228 [info] Extension host with pid 75165 exited with code: 0, signal: unknown.

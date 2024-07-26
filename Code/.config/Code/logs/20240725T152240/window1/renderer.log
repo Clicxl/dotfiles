@@ -1,9 +1,0 @@
-2024-07-25 15:22:43.391 [info] Started local extension host with pid 75584.
-2024-07-25 15:22:47.619 [info] [perf] Render performance baseline is 45ms
-2024-07-25 15:23:19.359 [info] Started local extension host with pid 75990.
-2024-07-25 15:23:20.450 [error] No registered selector for ID: ms-vscode.npm-command
-2024-07-25 15:23:51.387 [info] Started local extension host with pid 76094.
-2024-07-25 15:23:51.997 [error] No registered selector for ID: ms-vscode.npm-command
-2024-07-25 15:23:53.440 [error] [Extension Host] (node:76094) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [TLSSocket]. Use emitter.setMaxListeners() to increase limit
-(Use `exe --trace-warnings ...` to show where the warning was created)
-2024-07-25 15:23:53.463 [error] [Extension Host] (node:76094) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 close listeners added to [TLSSocket]. Use emitter.setMaxListeners() to increase limit

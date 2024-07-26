@@ -1,9 +1,0 @@
-node_modules
-.env
-cert
-database
-logs
-dist
-tsconfig.json
-# JetBrains IDEs
-.idea/

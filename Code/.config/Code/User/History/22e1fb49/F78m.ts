@@ -1,1 +1,0 @@
-export type AlgorithmType = "DIJKSTRA" | "A_STAR" | "BFS" | "DFS";

@@ -1,1 +1,0 @@
-WIDTH , HEIGHT = 720,480

@@ -1,4 +1,0 @@
-function updateSys(){
-    sudo nala update
-}
-alias update=updateSys
