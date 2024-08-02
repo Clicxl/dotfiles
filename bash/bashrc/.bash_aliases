@@ -2,21 +2,21 @@
 
 #Update && Switching to Windows
 function updateSys() {
-    # Apt or Nala
-    sudo nala update
-    sudo nala upgrade -y
+  # Apt or Nala
+  sudo nala update
+  sudo nala upgrade -y
 
-    #Brew
-    brew update
-    brew upgrade
+  #Brew
+  brew update
+  brew upgrade
 
-    #Flatpak - Flathub
-    flatpak update -y
+  #Flatpak - Flathub
+  flatpak update -y
 }
 
 function switchWindows() {
-    sudo grub-reboot 'Windows Boot Manager (on /dev/sda1)'
-    sudo reboot
+  sudo grub-reboot 'Windows Boot Manager (on /dev/sda1)'
+  sudo reboot
 }
 
 alias update="updateSys"
@@ -34,7 +34,7 @@ alias lt="eza --tree --level=2 --color=always --group-directories-first --icons=
 alias what=tldr
 
 # Cat -> Bat
-alias cat=bat
+#alias cat=bat
 
 #Copy Paste - Interactive mode
 alias cp='cp -i'
@@ -43,7 +43,7 @@ alias cp='cp -i'
 alias gi="git init"
 alias ga='git add'
 alias gca='git commit -a'
-alias gc="git commit"
+alias gc="git commit -m"
 alias gs='git status'
 alias gb='git branch'
 alias grm='rm -rf .git'
