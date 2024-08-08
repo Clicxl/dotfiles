@@ -35,3 +35,4 @@ nvim/.config/nvim/lazyvim.json
 
 setup/__pycache__
 setup/utils/__pycache__
+nvim/.config/nvim/lazy-lock.json

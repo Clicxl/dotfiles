@@ -34,23 +34,31 @@ alias lt="eza --tree --level=2 --color=always --group-directories-first --icons=
 alias what=tldr
 
 # Cat -> Bat
-#alias cat=bat
+# alias cat=bat
 
 #Copy Paste - Interactive mode
 alias cp='cp -i'
 
 #Git
-alias gi="git init"
-alias ga='git add'
-alias gca='git commit -a'
-alias gc="git commit -m"
-alias gs='git status'
-alias gb='git branch'
-alias grm='rm -rf .git'
-alias gp='git push origin main'
+alias init="git init"
+alias add='git add'
+alias addall='git add .'
+
+alias commit='git commit -m'
+alias status='git status'
+alias branch='git branch'
+alias uninit='rm -rf .git'
+alias push='git push origin'
+alias clone='git clone'
+alias fetch='git fetch'
+alias pull='git pull origin'
+alias checkout='git checkout'
 
 #fzf
 alias fcode='code  $(find . -type d -print | fzf )'
 alias fcd='cd $(find . -type d -print | fzf )'
 alias fls='eza $(find * -type d | fzf)'
 alias fzed='zed  $(find . -type d -print | fzf )'
+
+# Zellij
+alias zeload='zellij --layout'
