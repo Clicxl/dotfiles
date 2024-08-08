@@ -20,4 +20,4 @@ def Code():
         return
 
     print(f"Connecting {module}")
-    run(f"stow {module}", shell=True)
+    run(f"stow --adopt {module}", shell=True)

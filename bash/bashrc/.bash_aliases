@@ -43,7 +43,6 @@ alias cp='cp -i'
 alias init="git init"
 alias add='git add'
 alias addall='git add .'
-
 alias commit='git commit -m'
 alias status='git status'
 alias branch='git branch'
@@ -62,3 +61,6 @@ alias fzed='zed  $(find . -type d -print | fzf )'
 
 # Zellij
 alias zeload='zellij --layout'
+
+#Replace cd with zoxide
+alias cd='z'

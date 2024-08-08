@@ -1,0 +1,304 @@
+[
+  {
+    "identifier": {
+      "id": "catppuccin.catppuccin-vsc",
+      "uuid": "69264e4d-cd3b-468a-8f2b-e69673c7d864"
+    },
+    "version": "3.15.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/hrishikesh/.vscode/extensions/catppuccin.catppuccin-vsc-3.15.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "catppuccin.catppuccin-vsc-3.15.0",
+    "metadata": {
+      "installedTimestamp": 1722076233539,
+      "pinned": false,
+      "source": "gallery",
+      "id": "69264e4d-cd3b-468a-8f2b-e69673c7d864",
+      "publisherId": "e7d2ed61-53e0-4dd4-afbe-f536c3bb4316",
+      "publisherDisplayName": "Catppuccin",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "pkief.material-icon-theme",
+      "uuid": "5db78037-f674-459f-a236-db622c427c5b"
+    },
+    "version": "5.8.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/hrishikesh/.vscode/extensions/pkief.material-icon-theme-5.8.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "pkief.material-icon-theme-5.8.0",
+    "metadata": {
+      "installedTimestamp": 1722076267320,
+      "pinned": false,
+      "source": "gallery",
+      "id": "5db78037-f674-459f-a236-db622c427c5b",
+      "publisherId": "f9e5bc2f-fea1-4075-917f-d83e01e69f56",
+      "publisherDisplayName": "Philipp Kief",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "yoavbls.pretty-ts-errors",
+      "uuid": "1e149c89-8f97-447e-863d-1146f0ad1b70"
+    },
+    "version": "0.5.4",
+    "location": {
+      "$mid": 1,
+      "path": "/home/hrishikesh/.vscode/extensions/yoavbls.pretty-ts-errors-0.5.4",
+      "scheme": "file"
+    },
+    "relativeLocation": "yoavbls.pretty-ts-errors-0.5.4",
+    "metadata": {
+      "installedTimestamp": 1722076294681,
+      "pinned": false,
+      "source": "gallery",
+      "id": "1e149c89-8f97-447e-863d-1146f0ad1b70",
+      "publisherId": "0939a3c0-6896-4249-bfa3-4ff58ebaccd0",
+      "publisherDisplayName": "yoavbls",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ritwickdey.liveserver",
+      "uuid": "b63c44fd-0457-4696-99e9-dbfdf70d77de"
+    },
+    "version": "5.7.9",
+    "location": {
+      "$mid": 1,
+      "path": "/home/hrishikesh/.vscode/extensions/ritwickdey.liveserver-5.7.9",
+      "scheme": "file"
+    },
+    "relativeLocation": "ritwickdey.liveserver-5.7.9",
+    "metadata": {
+      "installedTimestamp": 1722076311556,
+      "pinned": false,
+      "source": "gallery",
+      "id": "b63c44fd-0457-4696-99e9-dbfdf70d77de",
+      "publisherId": "17fd9a78-e430-4a78-add2-ade4a8830352",
+      "publisherDisplayName": "Ritwick Dey",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.debugpy",
+      "uuid": "4bd5d2c9-9d65-401a-b0b2-7498d9f17615"
+    },
+    "version": "2024.8.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/hrishikesh/.vscode/extensions/ms-python.debugpy-2024.8.0-linux-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-python.debugpy-2024.8.0-linux-x64",
+    "metadata": {
+      "installedTimestamp": 1722076454747,
+      "pinned": false,
+      "source": "gallery",
+      "id": "4bd5d2c9-9d65-401a-b0b2-7498d9f17615",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "linux-x64",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "esbenp.prettier-vscode",
+      "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+    },
+    "version": "10.4.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/hrishikesh/.vscode/extensions/esbenp.prettier-vscode-10.4.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "esbenp.prettier-vscode-10.4.0",
+    "metadata": {
+      "installedTimestamp": 1722076514713,
+      "pinned": false,
+      "source": "gallery",
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "d16f4e39-2ffb-44e3-9c0d-79d873570e3a",
+      "publisherDisplayName": "Prettier",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "dotenv.dotenv-vscode",
+      "uuid": "bfc47172-d830-4aab-9c7b-ecfdb1e97a29"
+    },
+    "version": "0.28.1",
+    "location": {
+      "$mid": 1,
+      "path": "/home/hrishikesh/.vscode/extensions/dotenv.dotenv-vscode-0.28.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "dotenv.dotenv-vscode-0.28.1",
+    "metadata": {
+      "installedTimestamp": 1722076586351,
+      "pinned": false,
+      "source": "gallery",
+      "id": "bfc47172-d830-4aab-9c7b-ecfdb1e97a29",
+      "publisherId": "a60a9842-7ba3-4610-9d6c-1db6f3bccc4e",
+      "publisherDisplayName": "Dotenv",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "codezombiech.gitignore",
+      "uuid": "3e891cf9-53cb-49a3-8d01-8f0b1f0afb29"
+    },
+    "version": "0.9.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/hrishikesh/.vscode/extensions/codezombiech.gitignore-0.9.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "codezombiech.gitignore-0.9.0",
+    "metadata": {
+      "installedTimestamp": 1722076725669,
+      "pinned": false,
+      "source": "gallery",
+      "id": "3e891cf9-53cb-49a3-8d01-8f0b1f0afb29",
+      "publisherId": "930310c4-ca8b-4e80-9d19-2b1507b2af61",
+      "publisherDisplayName": "CodeZombie",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.python",
+      "uuid": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5"
+    },
+    "version": "2024.10.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/hrishikesh/.vscode/extensions/ms-python.python-2024.10.0-linux-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-python.python-2024.10.0-linux-x64",
+    "metadata": {
+      "installedTimestamp": 1722076454737,
+      "pinned": false,
+      "source": "gallery",
+      "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "linux-x64",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "dsznajder.es7-react-js-snippets",
+      "uuid": "19804510-b475-4dae-b0f7-6ca08fd1af0c"
+    },
+    "version": "4.4.3",
+    "location": {
+      "$mid": 1,
+      "path": "/home/hrishikesh/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3",
+      "scheme": "file"
+    },
+    "relativeLocation": "dsznajder.es7-react-js-snippets-4.4.3",
+    "metadata": {
+      "installedTimestamp": 1722076751512,
+      "pinned": false,
+      "source": "gallery",
+      "id": "19804510-b475-4dae-b0f7-6ca08fd1af0c",
+      "publisherId": "7ea644b4-2d93-4979-aac5-a12afebeb762",
+      "publisherDisplayName": "dsznajder",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.vscode-pylance",
+      "uuid": "364d2426-116a-433a-a5d8-a5098dc3afbd"
+    },
+    "version": "2024.7.1",
+    "location": {
+      "$mid": 1,
+      "path": "/home/hrishikesh/.vscode/extensions/ms-python.vscode-pylance-2024.7.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-python.vscode-pylance-2024.7.1",
+    "metadata": {
+      "installedTimestamp": 1722076883747,
+      "pinned": false,
+      "source": "gallery",
+      "id": "364d2426-116a-433a-a5d8-a5098dc3afbd",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "charliermarsh.ruff",
+      "uuid": "c2ca9b43-fa38-44fc-928e-5125970b9c00"
+    },
+    "version": "2024.36.0",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/hrishikesh/.vscode/extensions/charliermarsh.ruff-2024.36.0-linux-x64",
+      "external": "file:///home/hrishikesh/.vscode/extensions/charliermarsh.ruff-2024.36.0-linux-x64",
+      "path": "/home/hrishikesh/.vscode/extensions/charliermarsh.ruff-2024.36.0-linux-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "charliermarsh.ruff-2024.36.0-linux-x64",
+    "metadata": {
+      "installedTimestamp": 1722079877842,
+      "pinned": false,
+      "source": "gallery",
+      "id": "c2ca9b43-fa38-44fc-928e-5125970b9c00",
+      "publisherId": "ae7578b3-bd2b-455d-bbd6-cd231eee3c09",
+      "publisherDisplayName": "Astral Software",
+      "targetPlatform": "linux-x64",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  }
+]
