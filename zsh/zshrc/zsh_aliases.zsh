@@ -1,4 +1,12 @@
-#!/bin/bash
+#!/usr/bin/zsh
+
+# Change directory aliases
+alias home='cd ~'
+alias cd..='cd ..'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
 
 #Update && Switching to Windows
 function updateSys() {

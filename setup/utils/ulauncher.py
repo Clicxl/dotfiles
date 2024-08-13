@@ -1,26 +1,32 @@
 from subprocess import run
-
+from utils.functions import commandExists
+import inquirer
 
 def Ulauncher():
     module = "ulauncher"
 
-    want = input(f"Do you want to Install {module}: (y/n) ")
+    if not commandExists(module):
+            print(f"Installing {module}")
 
-    if want.lower() in ["y", "yes"]:
-        print(f"Installing {module}")
+            run("sudo add-apt-repository universe -y", shell=True)
+            run("sudo add-apt-repository ppa:agornostal/ulauncher -y", shell=True)
+            run("sudo nala update", shell=True)
+            run("sudo nala install ulauncher", shell=True)
 
-        run("sudo add-apt-repository universe -y", shell=True)
-        run("sudo add-apt-repository ppa:agornostal/ulauncher -y", shell=True)
-        run("sudo nala update", shell=True)
-        run("sudo nala install ulauncher", shell=True)
 
-    elif want.lower() in ["n", "no"]:
-        pass
-    else:
-        print("Please Enter Correct input")
-        Ulauncher()
-        return
+    # Prompt the user to decide whether to link the ulauncher module
+    link_question = [
+        inquirer.List(
+            "link",
+            message=f"Do you want to link {module}?",
+            choices=["yes", "no"],
+        )
+    ]
+    link_desired = inquirer.prompt(link_question)["link"]
 
-    print(f"Connecting {module}")
-    run(f"stow {module}",shell=True)
+    # If the user chooses to link it, link the ulauncher module
+    if link_desired == "yes":
+        print(f"Linking {module}")
+        run(f"stow --adopt {module}", shell=True)
+
 

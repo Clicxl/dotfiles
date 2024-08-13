@@ -8,6 +8,8 @@
 Import Installs and Syncs the following setups/configurations
 - Code
 - Tmux
+- Zellij
+- Zsh
 - Ulauncher
 - Fastfetch
 - neoVim
@@ -34,11 +36,13 @@ Dotfile requires [Python](https://www.python.org/) v3.10+ to run.
     ```sh
     git clone https://github.com/Clicxl/dotfiles ~/dotfiles
     ```
-4. Now enter into the dotfiles folder and run the setup.py script in the setup folder
+4. Now enter into the dotfiles folder 
     ```sh
     cd ~/dotfiles
     ```
-    ```py
+5. Install Needed Depencies such as inquirer and run the setup.py script in the setup folder
+    ```sh
+    pip install inquirer
     python3 setup/setup.py
     ```
-5. Complete the installation setup and you are good to go.
+6. Complete the installation setup and you are good to go.

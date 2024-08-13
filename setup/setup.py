@@ -1,14 +1,12 @@
 from subprocess import run
 from os import path
-from utils.functions import commandExists
 
-from utils.bat import Bat
-from utils.vscode import Code
-from utils.nvim import Nvim
-from utils.fastfetch import fastFetch
+from utils.functions import link_module,commandExists
+
 from utils.kitty import Kitty
-from utils.tmux import Tmux
+from utils.terminalMultiplexer import Multiplexer
 from utils.ulauncher import Ulauncher
+from utils.shell import shell
 
 
 HOME = path.expanduser("~")
@@ -16,32 +14,30 @@ DOTFILES = HOME + "/dotfiles"
 
 
 # install function
-def installStart():
-    Code()
-    print("\n")
-    Bat()
-    print("\n")
-    Nvim()
-    print("\n")
-    fastFetch()
-    print("\n")
+def install():
+
+    module_installer = ['code','bat','nvim','fastfetch','fzf']
+
+    for module in module_installer:
+        link_module(module)
+
     Kitty()
-    print("\n")
-    Tmux()
-    print("\n")
+    Multiplexer()
     Ulauncher()
-    print("\n")
-    print("Installation Completed")
+    shell()
+
+    print("Installation completed")
 
 
-print(f"Changing to the {DOTFILES} directory")
-run(["cd", DOTFILES], shell=True)
+if __name__ == "__main__":
 
+    print(f"Changing to the {DOTFILES} directory")
+    run(["cd", DOTFILES], shell=True)
 
-if commandExists("stow"):
     if commandExists("stow"):
-        installStart()
-
+        install()
     else:
         run("sudo nala install stow", shell=True)
-        installStart()
+        install()
+
+

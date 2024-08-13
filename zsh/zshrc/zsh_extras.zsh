@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/usr/bin/zsh
 
-# Bash Extras
+# zsh Extras
 
 # Linking
 # Homebrew
@@ -46,7 +46,7 @@ install_dependencies() {
   "debian")
     ${SUDO_CMD} apt-get install nala
     ${SUDO_CMD} nala install "${DEPENDENCIES}"
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    /usr/bin/zsh -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     brew install eza zoxide
     ;;
   *)
@@ -55,17 +55,15 @@ install_dependencies() {
   esac
 }
 
-#fzf - For fzf 0.48.0 or more
-#eval "$(fzf --bash)"
+#Load fzf for zsh
+if [ -d "$HOME/.fzf" ]; then
+  . ~/.fzf/load_fzf.zsh
+fi
+
 
 #zoxide
-eval "$(zoxide init --cmd cd bash)"
-
-# fzf Catppuccin theme
-export FZF_DEFAULT_OPTS=" \
---color=bg+:#313244,bg:#1e1e2e,spinner:#f5e0dc,hl:#f38ba8 \
---color=fg:#cdd6f4,header:#f38ba8,info:#cba6f7,pointer:#f5e0dc \
---color=marker:#f5e0dc,fg+:#cdd6f4,prompt:#cba6f7,hl+:#f38ba8"
+eval "$(zoxide init --cmd cd zsh)"
 
 # Added Oh My Posh
-eval "$(oh-my-posh init bash --config $HOME/.config/ohmyposh/custom.toml)"
+eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/custom.toml)"
+
